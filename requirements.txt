@@ -1,0 +1,8 @@
+# requirements for Mac {VERSION}
+flask # may port to IntelliJ
+opencv-python
+face_recognition # depends on cmake brew install cmake
+numpy
+pyttsx3
+
+# requirements for raspberry pi
